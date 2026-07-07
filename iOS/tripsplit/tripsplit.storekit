@@ -1,0 +1,40 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000001",
+      "localizations": [],
+      "name": "Tripmate Split Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "$1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "210000010",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlock full Tripmate Split Pro features",
+              "displayName": "Tripmate Split Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "tripsplit_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Tripmate Split Pro Monthly",
+          "subscriptionGroupID": "21000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
